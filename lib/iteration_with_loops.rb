@@ -23,8 +23,7 @@ def join_nested_strings(src)
     row_index += 1
     
   end
-  
-  #total
+  total
   
   
   # src will be an Array of Arrays of Strings and Integers
