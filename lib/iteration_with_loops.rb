@@ -10,7 +10,7 @@ def join_nested_strings(src)
     
     while element_index < src[row_index].count do
       
-      if 
+      if src[row_index][element_index]
       
       total += src[row_index][element_index]
       
