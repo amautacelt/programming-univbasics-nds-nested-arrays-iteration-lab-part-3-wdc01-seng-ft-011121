@@ -32,7 +32,7 @@ end
 
 def join_nested_strings(src)
   
-  total = " "
+  sum = " "
   
   row_index = 0
   
