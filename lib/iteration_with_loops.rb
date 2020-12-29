@@ -32,9 +32,9 @@ end
 
 def join_nested_strings(src)
   
-  sum = " "
-  
   row_index = 0
+  
+  sum = " "
   
   while row_index < src.count do
     
