@@ -1,4 +1,4 @@
-def join_nested_strings
+def join_nested_strings(src)
   
   words = []
   src.each do |items|
