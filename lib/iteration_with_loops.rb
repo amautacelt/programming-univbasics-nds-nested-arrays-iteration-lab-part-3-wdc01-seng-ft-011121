@@ -1,6 +1,6 @@
 def join_nested_strings(src)
   
-  words = 0
+  total = 0
   
   row_index = 0
   
