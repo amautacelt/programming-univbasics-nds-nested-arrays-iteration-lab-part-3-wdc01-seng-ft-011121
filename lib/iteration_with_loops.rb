@@ -14,6 +14,8 @@ def join_nested_strings(src)
       
         total += src[row_index][element_index] + " "
       
+      end
+      
       element_index += 1
       
     end
